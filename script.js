@@ -21,3 +21,5 @@ class Heroe {
         return "Saludo"
     }
 }
+
+const sm = new Heroe ("Superman", 82, 181, 200)
