@@ -15,4 +15,9 @@ class Heroe {
         this.talla = talla
         this.ataque = ataque
     }
+
+    saludar(){
+        document.write("Hola, qué tal?")
+        return "Saludo"
+    }
 }
