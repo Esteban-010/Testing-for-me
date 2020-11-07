@@ -4,3 +4,11 @@ const batman = {
 }
 
 console.log(batman)
+
+
+class Heroe {
+    constructor(peso, talla){
+        this.peso = peso
+        this.talla = talla
+    }
+}
