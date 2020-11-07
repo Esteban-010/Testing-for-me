@@ -23,3 +23,5 @@ class Heroe {
 }
 
 const sm = new Heroe ("Superman", 82, 181, 200)
+
+console.log(sm)
